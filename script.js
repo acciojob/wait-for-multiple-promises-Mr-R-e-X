@@ -33,7 +33,7 @@ function updateTable(promises) {
 
 document.getElementById("output").innerHTML = `
 <tr>
-  <td colspan="2">Loading...</td>
+  <td colspan="2">loading...</td>
 </tr>
 `;
 
